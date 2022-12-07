@@ -16,7 +16,7 @@
     "dependencies": {
         "body-parser": "^1.18.2",
         "delay": "^3.0.0",
-        "express": "^4.16.2",
+        "express": "^4.17.3",
         "jest": "^22.1.4",
         "jest-each": "^0.3.1",
         "morgan": "^1.9.0",
